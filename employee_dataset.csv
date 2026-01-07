@@ -1,0 +1,31 @@
+EmpID,Name,Department,Age,Salary,PerformanceRating
+1,Alice W.,Marketing,25.0,54000.0,4.0
+2,Bob T.,IT,35.0,72000.0,3.0
+3,Charlie K.,HR,29.0,58000.0,5.0
+4,Diana L.,Finance,40.0,91000.0,2.0
+5,Ethan Y.,IT,33.0,69000.0,
+6,Fiona M.,Marketing,27.0,,3.0
+7,George H.,Finance,50.0,105000.0,4.0
+8,Hannah P.,HR,,51000.0,3.0
+9,Ivan R.,IT,30.0,61000.0,
+10,Julie E.,Marketing,45.0,80000.0,2.0
+11,,IT,28.0,62000.0,3.0
+12,Kevin B.,,32.0,73000.0,4.0
+13,Laura C.,HR,26.0,,5.0
+14,Michael Z.,Finance,52.0,115000.0,3.0
+15,Nina G.,Marketing,24.0,45000.0,5.0
+16,Olivia O.,IT,36.0,97000.0,2.0
+17,Paul P.,HR,31.0,52000.0,4.0
+18,Quentin L.,Finance,46.0,89000.0,
+19,Rebecca D.,Marketing,44.0,81000.0,1.0
+20,Samuel E.,,29.0,60000.0,3.0
+21,Tina V.,Finance,49.0,,4.0
+22,Uma W.,IT,38.0,85000.0,3.0
+23,Victor T.,HR,29.0,77000.0,2.0
+24,Wendy Q.,Marketing,,57000.0,
+25,Xavier J.,IT,34.0,65000.0,4.0
+26,Yolanda M.,HR,28.0,54000.0,1.0
+27,Zachary N.,Finance,60.0,200000.0,5.0
+28,,IT,,48000.0,3.0
+29,Bryan O.,Marketing,19.0,40000.0,5.0
+30,Catherine P.,HR,62.0,300000.0,2.0

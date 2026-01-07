@@ -1,0 +1,9 @@
+F1
+Recall
+Precision
+Accuracy
+Parameters of Rf
+Plot ROC Score
+threshold value for roc score is 0.5
+Grid Search
+Test performance
